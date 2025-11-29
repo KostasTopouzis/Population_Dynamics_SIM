@@ -1,122 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PopulationDynamics_Sim\\SimProject\\",
+  "WorkspaceRootPath": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\utils\\imgui\\u_imgui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\utils\\imgui\\u_imgui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\utils\\sdl\\u_sdl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\utils\\sdl\\u_sdl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\includes\\timer_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\includes\\timer_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\src\\global_state.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\src\\global_state.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\src\\timer_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\src\\timer_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\src\\entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\src\\entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\utils\\sdl\\u_sdl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\utils\\sdl\\u_sdl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\utils\\implot\\constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\utils\\implot\\constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\utils\\imgui\\u_imgui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\includes\\settings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\includes\\settings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\utils\\imgui\\u_imgui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\utils\\imgui\\u_imgui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\utils\\NamingConventions.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\utils\\NamingConventions.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\utils\\imgui\\u_imgui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\utils\\imgui\\u_imgui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\backends\\imgui_impl_sdl3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\libs\\imgui\\backends\\imgui_impl_sdl3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\includes\\entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\includes\\entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\backends\\imgui_impl_win32.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\libs\\imgui\\backends\\imgui_impl_win32.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\includes\\global_state.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\includes\\global_state.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imstb_truetype.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\libs\\imgui\\imstb_truetype.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\includes\\population_control_enums.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\includes\\population_control_enums.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imstb_textedit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\libs\\imgui\\imstb_textedit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\src\\timer_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\src\\timer_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imstb_rectpack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\libs\\imgui\\imstb_rectpack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\utils\\implot\\u_implot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\utils\\implot\\u_implot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imgui_widgets.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\libs\\imgui\\imgui_widgets.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imgui_tables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\libs\\imgui\\imgui_tables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imgui_internal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\libs\\imgui\\imgui_internal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imgui_draw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\libs\\imgui\\imgui_draw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imgui_demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\libs\\imgui\\imgui_demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imconfig.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\libs\\imgui\\imconfig.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imgui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\libs\\imgui\\imgui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\backends\\imgui_impl_win32.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\libs\\imgui\\backends\\imgui_impl_win32.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\backends\\imgui_impl_sdlrenderer3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\libs\\imgui\\backends\\imgui_impl_sdlrenderer3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\backends\\imgui_impl_sdlrenderer3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\libs\\imgui\\backends\\imgui_impl_sdlrenderer3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\backends\\imgui_impl_sdl3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\libs\\imgui\\backends\\imgui_impl_sdl3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\imgui\\backends\\imgui_impl_sdlrenderer3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SimProject\\imgui\\backends\\imgui_impl_sdlrenderer3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\imgui\\backends\\imgui_impl_sdlrenderer3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SimProject\\imgui\\backends\\imgui_impl_sdlrenderer3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\imgui\\backends\\imgui_impl_sdl3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SimProject\\imgui\\backends\\imgui_impl_sdl3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\imgui\\backends\\imgui_impl_sdl3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SimProject\\imgui\\backends\\imgui_impl_sdl3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\includes\\TimerManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SimProject\\includes\\TimerManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\utils\\implot\\u_implot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFB0C02F-A4C6-44AE-86C6-F92152761A9C}|SimProject\\SimProject.vcxproj|solutionrelative:SimProject\\utils\\implot\\u_implot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -125,365 +61,189 @@
       "VerticalTabListWidth": 252,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 195,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "u_imgui.cpp",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\utils\\imgui\\u_imgui.cpp",
-              "RelativeDocumentMoniker": "SimProject\\utils\\imgui\\u_imgui.cpp",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\utils\\imgui\\u_imgui.cpp",
-              "RelativeToolTip": "SimProject\\utils\\imgui\\u_imgui.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\src\\main.cpp",
+              "RelativeDocumentMoniker": "SimProject\\src\\main.cpp",
+              "ToolTip": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\src\\main.cpp",
+              "RelativeToolTip": "SimProject\\src\\main.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwFEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-18T18:12:02.662Z",
+              "WhenOpened": "2025-11-29T12:58:59.293Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "u_imgui.h",
+              "DocumentMoniker": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\utils\\imgui\\u_imgui.h",
+              "RelativeDocumentMoniker": "SimProject\\utils\\imgui\\u_imgui.h",
+              "ToolTip": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\utils\\imgui\\u_imgui.h",
+              "RelativeToolTip": "SimProject\\utils\\imgui\\u_imgui.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-25T11:06:31.594Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "u_imgui.h",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\utils\\imgui\\u_imgui.h",
-              "RelativeDocumentMoniker": "SimProject\\utils\\imgui\\u_imgui.h",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\utils\\imgui\\u_imgui.h",
-              "RelativeToolTip": "SimProject\\utils\\imgui\\u_imgui.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-18T18:12:02.105Z"
+              "Title": "u_imgui.cpp",
+              "DocumentMoniker": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\utils\\imgui\\u_imgui.cpp",
+              "RelativeDocumentMoniker": "SimProject\\utils\\imgui\\u_imgui.cpp",
+              "ToolTip": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\utils\\imgui\\u_imgui.cpp",
+              "RelativeToolTip": "SimProject\\utils\\imgui\\u_imgui.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-18T18:12:02.662Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "u_sdl.h",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\utils\\sdl\\u_sdl.h",
-              "RelativeDocumentMoniker": "SimProject\\utils\\sdl\\u_sdl.h",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\utils\\sdl\\u_sdl.h",
-              "RelativeToolTip": "SimProject\\utils\\sdl\\u_sdl.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "u_implot.h",
+              "DocumentMoniker": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\utils\\implot\\u_implot.h",
+              "RelativeDocumentMoniker": "SimProject\\utils\\implot\\u_implot.h",
+              "ToolTip": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\utils\\implot\\u_implot.h",
+              "RelativeToolTip": "SimProject\\utils\\implot\\u_implot.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-18T18:12:00.432Z"
+              "WhenOpened": "2025-11-22T08:07:31.619Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "u_implot.cpp",
+              "DocumentMoniker": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\utils\\implot\\u_implot.cpp",
+              "RelativeDocumentMoniker": "SimProject\\utils\\implot\\u_implot.cpp",
+              "ToolTip": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\utils\\implot\\u_implot.cpp",
+              "RelativeToolTip": "SimProject\\utils\\implot\\u_implot.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwBwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-22T20:42:31.821Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "global_state.h",
+              "DocumentMoniker": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\includes\\global_state.h",
+              "RelativeDocumentMoniker": "SimProject\\includes\\global_state.h",
+              "ToolTip": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\includes\\global_state.h",
+              "RelativeToolTip": "SimProject\\includes\\global_state.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-29T13:08:47.483Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "u_sdl.cpp",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\utils\\sdl\\u_sdl.cpp",
-              "RelativeDocumentMoniker": "SimProject\\utils\\sdl\\u_sdl.cpp",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\utils\\sdl\\u_sdl.cpp",
-              "RelativeToolTip": "SimProject\\utils\\sdl\\u_sdl.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Title": "global_state.cpp",
+              "DocumentMoniker": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\src\\global_state.cpp",
+              "RelativeDocumentMoniker": "SimProject\\src\\global_state.cpp",
+              "ToolTip": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\src\\global_state.cpp",
+              "RelativeToolTip": "SimProject\\src\\global_state.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-18T18:11:59.937Z",
+              "WhenOpened": "2025-11-29T12:47:27.46Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "timer_manager.cpp",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\src\\timer_manager.cpp",
-              "RelativeDocumentMoniker": "SimProject\\src\\timer_manager.cpp",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\src\\timer_manager.cpp",
-              "RelativeToolTip": "SimProject\\src\\timer_manager.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAlwCAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-18T18:02:44.246Z",
+              "Title": "settings.h",
+              "DocumentMoniker": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\includes\\settings.h",
+              "RelativeDocumentMoniker": "SimProject\\includes\\settings.h",
+              "ToolTip": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\includes\\settings.h",
+              "RelativeToolTip": "SimProject\\includes\\settings.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-29T13:04:32.523Z",
+              "IsPinned": true,
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "TimerManager.h",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\includes\\TimerManager.h",
-              "RelativeDocumentMoniker": "SimProject\\includes\\TimerManager.h",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\includes\\TimerManager.h",
-              "RelativeToolTip": "SimProject\\includes\\TimerManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-18T18:00:54.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "timer_manager.h",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\includes\\timer_manager.h",
-              "RelativeDocumentMoniker": "SimProject\\includes\\timer_manager.h",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\includes\\timer_manager.h",
-              "RelativeToolTip": "SimProject\\includes\\timer_manager.h",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-18T18:00:52.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "imstb_truetype.h",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imstb_truetype.h",
-              "RelativeDocumentMoniker": "SimProject\\libs\\imgui\\imstb_truetype.h",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imstb_truetype.h",
-              "RelativeToolTip": "SimProject\\libs\\imgui\\imstb_truetype.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-18T10:55:04.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "imstb_textedit.h",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imstb_textedit.h",
-              "RelativeDocumentMoniker": "SimProject\\libs\\imgui\\imstb_textedit.h",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imstb_textedit.h",
-              "RelativeToolTip": "SimProject\\libs\\imgui\\imstb_textedit.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-18T10:55:04.064Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "imstb_rectpack.h",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imstb_rectpack.h",
-              "RelativeDocumentMoniker": "SimProject\\libs\\imgui\\imstb_rectpack.h",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imstb_rectpack.h",
-              "RelativeToolTip": "SimProject\\libs\\imgui\\imstb_rectpack.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-18T10:55:03.555Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "imgui_widgets.cpp",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imgui_widgets.cpp",
-              "RelativeDocumentMoniker": "SimProject\\libs\\imgui\\imgui_widgets.cpp",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imgui_widgets.cpp",
-              "RelativeToolTip": "SimProject\\libs\\imgui\\imgui_widgets.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-18T10:55:03.029Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "imgui_tables.cpp",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imgui_tables.cpp",
-              "RelativeDocumentMoniker": "SimProject\\libs\\imgui\\imgui_tables.cpp",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imgui_tables.cpp",
-              "RelativeToolTip": "SimProject\\libs\\imgui\\imgui_tables.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-18T10:55:02.555Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "imgui_internal.h",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imgui_internal.h",
-              "RelativeDocumentMoniker": "SimProject\\libs\\imgui\\imgui_internal.h",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imgui_internal.h",
-              "RelativeToolTip": "SimProject\\libs\\imgui\\imgui_internal.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-18T10:55:01.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "imgui_draw.cpp",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imgui_draw.cpp",
-              "RelativeDocumentMoniker": "SimProject\\libs\\imgui\\imgui_draw.cpp",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imgui_draw.cpp",
-              "RelativeToolTip": "SimProject\\libs\\imgui\\imgui_draw.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-18T10:55:01.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "imgui_demo.cpp",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imgui_demo.cpp",
-              "RelativeDocumentMoniker": "SimProject\\libs\\imgui\\imgui_demo.cpp",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imgui_demo.cpp",
-              "RelativeToolTip": "SimProject\\libs\\imgui\\imgui_demo.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-18T10:55:00.071Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "imconfig.h",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imconfig.h",
-              "RelativeDocumentMoniker": "SimProject\\libs\\imgui\\imconfig.h",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imconfig.h",
-              "RelativeToolTip": "SimProject\\libs\\imgui\\imconfig.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-18T10:54:59.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "imgui.cpp",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imgui.cpp",
-              "RelativeDocumentMoniker": "SimProject\\libs\\imgui\\imgui.cpp",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\imgui.cpp",
-              "RelativeToolTip": "SimProject\\libs\\imgui\\imgui.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-18T10:54:57.901Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "imgui_impl_win32.h",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\backends\\imgui_impl_win32.h",
-              "RelativeDocumentMoniker": "SimProject\\libs\\imgui\\backends\\imgui_impl_win32.h",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\backends\\imgui_impl_win32.h",
-              "RelativeToolTip": "SimProject\\libs\\imgui\\backends\\imgui_impl_win32.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
+              "Title": "population_control_enums.h",
+              "DocumentMoniker": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\includes\\population_control_enums.h",
+              "RelativeDocumentMoniker": "SimProject\\includes\\population_control_enums.h",
+              "ToolTip": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\includes\\population_control_enums.h",
+              "RelativeToolTip": "SimProject\\includes\\population_control_enums.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-18T10:54:56.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "imgui_impl_win32.cpp",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\backends\\imgui_impl_win32.cpp",
-              "RelativeDocumentMoniker": "SimProject\\libs\\imgui\\backends\\imgui_impl_win32.cpp",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\backends\\imgui_impl_win32.cpp",
-              "RelativeToolTip": "SimProject\\libs\\imgui\\backends\\imgui_impl_win32.cpp",
-              "ViewState": "AgIAAMYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-18T10:54:42.587Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "imgui_impl_sdlrenderer3.h",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\backends\\imgui_impl_sdlrenderer3.h",
-              "RelativeDocumentMoniker": "SimProject\\libs\\imgui\\backends\\imgui_impl_sdlrenderer3.h",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\backends\\imgui_impl_sdlrenderer3.h",
-              "RelativeToolTip": "SimProject\\libs\\imgui\\backends\\imgui_impl_sdlrenderer3.h",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-18T10:54:35.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "imgui_impl_sdlrenderer3.cpp",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\backends\\imgui_impl_sdlrenderer3.cpp",
-              "RelativeDocumentMoniker": "SimProject\\libs\\imgui\\backends\\imgui_impl_sdlrenderer3.cpp",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\backends\\imgui_impl_sdlrenderer3.cpp",
-              "RelativeToolTip": "SimProject\\libs\\imgui\\backends\\imgui_impl_sdlrenderer3.cpp",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-18T10:54:24.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "imgui_impl_sdl3.cpp",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\backends\\imgui_impl_sdl3.cpp",
-              "RelativeDocumentMoniker": "SimProject\\libs\\imgui\\backends\\imgui_impl_sdl3.cpp",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\backends\\imgui_impl_sdl3.cpp",
-              "RelativeToolTip": "SimProject\\libs\\imgui\\backends\\imgui_impl_sdl3.cpp",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAEEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-18T10:53:58.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "imgui_impl_sdl3.h",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\backends\\imgui_impl_sdl3.h",
-              "RelativeDocumentMoniker": "SimProject\\libs\\imgui\\backends\\imgui_impl_sdl3.h",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\libs\\imgui\\backends\\imgui_impl_sdl3.h",
-              "RelativeToolTip": "SimProject\\libs\\imgui\\backends\\imgui_impl_sdl3.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-18T10:53:27.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NamingConventions.txt",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\utils\\NamingConventions.txt",
-              "RelativeDocumentMoniker": "SimProject\\utils\\NamingConventions.txt",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\utils\\NamingConventions.txt",
-              "RelativeToolTip": "SimProject\\utils\\NamingConventions.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-11-18T10:43:55.522Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\src\\main.cpp",
-              "RelativeDocumentMoniker": "SimProject\\src\\main.cpp",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\src\\main.cpp",
-              "RelativeToolTip": "SimProject\\src\\main.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-18T10:43:16.166Z",
+              "WhenOpened": "2025-11-29T13:08:03.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "imgui_impl_sdlrenderer3.h",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\imgui\\backends\\imgui_impl_sdlrenderer3.h",
-              "RelativeDocumentMoniker": "SimProject\\imgui\\backends\\imgui_impl_sdlrenderer3.h",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\imgui\\backends\\imgui_impl_sdlrenderer3.h",
-              "RelativeToolTip": "SimProject\\imgui\\backends\\imgui_impl_sdlrenderer3.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-17T15:52:04.258Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "imgui_impl_sdlrenderer3.cpp",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\imgui\\backends\\imgui_impl_sdlrenderer3.cpp",
-              "RelativeDocumentMoniker": "SimProject\\imgui\\backends\\imgui_impl_sdlrenderer3.cpp",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\imgui\\backends\\imgui_impl_sdlrenderer3.cpp",
-              "RelativeToolTip": "SimProject\\imgui\\backends\\imgui_impl_sdlrenderer3.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "entity.cpp",
+              "DocumentMoniker": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\src\\entity.cpp",
+              "RelativeDocumentMoniker": "SimProject\\src\\entity.cpp",
+              "ToolTip": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\src\\entity.cpp",
+              "RelativeToolTip": "SimProject\\src\\entity.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-17T15:52:00.313Z"
+              "WhenOpened": "2025-11-29T13:07:40.659Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "imgui_impl_sdl3.cpp",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\imgui\\backends\\imgui_impl_sdl3.cpp",
-              "RelativeDocumentMoniker": "SimProject\\imgui\\backends\\imgui_impl_sdl3.cpp",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\imgui\\backends\\imgui_impl_sdl3.cpp",
-              "RelativeToolTip": "SimProject\\imgui\\backends\\imgui_impl_sdl3.cpp",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-17T15:51:33.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "imgui_impl_sdl3.h",
-              "DocumentMoniker": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\imgui\\backends\\imgui_impl_sdl3.h",
-              "RelativeDocumentMoniker": "SimProject\\imgui\\backends\\imgui_impl_sdl3.h",
-              "ToolTip": "D:\\PopulationDynamics_Sim\\SimProject\\SimProject\\imgui\\backends\\imgui_impl_sdl3.h",
-              "RelativeToolTip": "SimProject\\imgui\\backends\\imgui_impl_sdl3.h",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBUAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "entity.h",
+              "DocumentMoniker": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\includes\\entity.h",
+              "RelativeDocumentMoniker": "SimProject\\includes\\entity.h",
+              "ToolTip": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\includes\\entity.h",
+              "RelativeToolTip": "SimProject\\includes\\entity.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-17T15:51:08.063Z"
+              "WhenOpened": "2025-11-29T13:07:28.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "timer_manager.cpp",
+              "DocumentMoniker": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\src\\timer_manager.cpp",
+              "RelativeDocumentMoniker": "SimProject\\src\\timer_manager.cpp",
+              "ToolTip": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\src\\timer_manager.cpp",
+              "RelativeToolTip": "SimProject\\src\\timer_manager.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-29T12:49:56.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "constants.h",
+              "DocumentMoniker": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\utils\\implot\\constants.h",
+              "RelativeDocumentMoniker": "SimProject\\utils\\implot\\constants.h",
+              "ToolTip": "D:\\Development\\Projects_\u0026_Doc\\Population_Dynamics_SIM\\SimProject\\SimProject\\utils\\implot\\constants.h",
+              "RelativeToolTip": "SimProject\\utils\\implot\\constants.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-23T19:17:33.568Z",
+              "EditorCaption": ""
             }
           ]
         }

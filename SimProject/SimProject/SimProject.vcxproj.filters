@@ -40,11 +40,14 @@
     <Filter Include="libs\sdl\include\SDL3">
       <UniqueIdentifier>{eaefc66b-89c6-40bf-936d-8df3fe9d72d9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="libs\implot">
+      <UniqueIdentifier>{dda49ebe-c930-421c-8ada-a7f924c95f02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="utils\implot">
+      <UniqueIdentifier>{81f2efb4-3670-4ab6-9be3-8efd352cd8d0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\main.cpp">
-      <Filter>src</Filter>
-    </ClCompile>
     <ClCompile Include="libs\imgui\imgui.cpp">
       <Filter>libs\imgui</Filter>
     </ClCompile>
@@ -69,14 +72,35 @@
     <ClCompile Include="libs\imgui\backends\imgui_impl_win32.cpp">
       <Filter>libs\imgui\backends</Filter>
     </ClCompile>
-    <ClCompile Include="src\timer_manager.cpp">
-      <Filter>src</Filter>
-    </ClCompile>
     <ClCompile Include="utils\sdl\u_sdl.cpp">
       <Filter>utils\sdl</Filter>
     </ClCompile>
     <ClCompile Include="utils\imgui\u_imgui.cpp">
       <Filter>utils\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\implot\implot.cpp">
+      <Filter>libs\implot</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\implot\implot_demo.cpp">
+      <Filter>libs\implot</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\implot\implot_items.cpp">
+      <Filter>libs\implot</Filter>
+    </ClCompile>
+    <ClCompile Include="utils\implot\u_implot.cpp">
+      <Filter>utils\implot</Filter>
+    </ClCompile>
+    <ClCompile Include="src\entity.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\global_state.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\timer_manager.cpp">
+      <Filter>src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -362,14 +386,38 @@
     <ClInclude Include="libs\sdl\include\SDL3\SDL_test_font.h">
       <Filter>libs\sdl\include\SDL3</Filter>
     </ClInclude>
-    <ClInclude Include="includes\timer_manager.h">
-      <Filter>includes</Filter>
-    </ClInclude>
     <ClInclude Include="utils\sdl\u_sdl.h">
       <Filter>utils\sdl</Filter>
     </ClInclude>
     <ClInclude Include="utils\imgui\u_imgui.h">
       <Filter>utils\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\implot\implot.h">
+      <Filter>libs\implot</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\implot\implot_internal.h">
+      <Filter>libs\implot</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\implot\u_implot.h">
+      <Filter>utils\implot</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\implot\constants.h">
+      <Filter>utils\implot</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\entity.h">
+      <Filter>includes</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\global_state.h">
+      <Filter>includes</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\population_control_enums.h">
+      <Filter>includes</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\settings.h">
+      <Filter>includes</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\timer_manager.h">
+      <Filter>includes</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -378,6 +426,9 @@
     </Text>
     <Text Include="libs\sdl\LICENSE.txt">
       <Filter>libs\sdl</Filter>
+    </Text>
+    <Text Include="ImplotChangesLog.txt">
+      <Filter>utils</Filter>
     </Text>
   </ItemGroup>
   <ItemGroup>
@@ -402,6 +453,8 @@
     <None Include="libs\sdl\cmake\SDL3Config.cmake">
       <Filter>libs\sdl\cmake</Filter>
     </None>
+    <None Include="..\Notes.md" />
+    <None Include="ThirdPartyLibs.props" />
   </ItemGroup>
   <ItemGroup>
     <Library Include="libs\sdl\lib\SDL3.lib">

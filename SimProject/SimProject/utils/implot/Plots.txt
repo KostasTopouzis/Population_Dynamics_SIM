@@ -1,0 +1,32 @@
+**Variables:**
+
+Time: [0-3600]
+Food: [0-100]
+Temperature: [0-100]
+Population Size: [0-100.000]
+
+**Axes:**
+
+x1: Time
+
+y1: Population Size
+y2: Temperature
+y3: Food
+
+
+**Plots:**
+
+As a function of time:
+- Time -> Population Size (x1, y1)
+- Time -> Toxicity Levels (x1, y2)
+- Time -> Food (x1, y3)
+
+
+
+
+As a function of food:
+- Food -> Population Size (x2, y1)
+
+As a function of toxicity levels:
+- Toxicity Levels -> Population Size (x3, y1)
+

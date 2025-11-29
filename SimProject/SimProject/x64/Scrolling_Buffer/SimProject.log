@@ -1,0 +1,27 @@
+﻿  imgui_impl_sdl3.cpp
+  imgui_impl_sdlrenderer3.cpp
+  imgui_impl_win32.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  implot.cpp
+  implot_demo.cpp
+  implot_items.cpp
+  main.cpp
+  timer_manager.cpp
+  u_imgui.cpp
+  u_implot.cpp
+D:\Development\Projects_&_Doc\Population_Dynamics_SIM\SimProject\SimProject\utils\implot\u_implot.cpp(40,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Development\Projects_&_Doc\Population_Dynamics_SIM\SimProject\SimProject\utils\implot\u_implot.cpp(127,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Development\Projects_&_Doc\Population_Dynamics_SIM\SimProject\SimProject\utils\implot\u_implot.cpp(210,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Development\Projects_&_Doc\Population_Dynamics_SIM\SimProject\SimProject\utils\implot\u_implot.cpp(211,6): error C2084: function 'void LinePlotTime(void)' already has a body
+      D:\Development\Projects_&_Doc\Population_Dynamics_SIM\SimProject\SimProject\utils\implot\u_implot.cpp(128,6):
+      see previous definition of 'LinePlotTime'
+  
+D:\Development\Projects_&_Doc\Population_Dynamics_SIM\SimProject\SimProject\utils\implot\u_implot.cpp(255,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Development\Projects_&_Doc\Population_Dynamics_SIM\SimProject\SimProject\utils\implot\u_implot.cpp(261,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Development\Projects_&_Doc\Population_Dynamics_SIM\SimProject\SimProject\utils\implot\u_implot.cpp(268,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  u_sdl.cpp
+  Generating Code...

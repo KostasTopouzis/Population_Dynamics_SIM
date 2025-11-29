@@ -1,2 +1,22 @@
-﻿  u_imgui.cpp
-  SimProject.vcxproj -> D:\PopulationDynamics_Sim\SimProject\x64\Debug\SimProject.exe
+﻿  imgui_impl_sdl3.cpp
+  imgui_impl_sdlrenderer3.cpp
+  imgui_impl_win32.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  implot.cpp
+  implot_demo.cpp
+  implot_items.cpp
+  entity.cpp
+  global_state.cpp
+  main.cpp
+D:\Development\Projects_&_Doc\Population_Dynamics_SIM\SimProject\SimProject\src\main.cpp(95,54): warning C4305: 'argument': truncation from 'double' to 'float'
+  timer_manager.cpp
+D:\Development\Projects_&_Doc\Population_Dynamics_SIM\SimProject\SimProject\src\timer_manager.cpp(56,21): warning C4244: '=': conversion from 'float' to 'Uint16', possible loss of data
+  u_imgui.cpp
+  u_implot.cpp
+  u_sdl.cpp
+  Generating Code...
+  SimProject.vcxproj -> D:\Development\Projects_&_Doc\Population_Dynamics_SIM\SimProject\x64\Debug\SimProject.exe

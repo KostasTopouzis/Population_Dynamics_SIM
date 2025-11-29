@@ -1,0 +1,28 @@
+#pragma once
+
+enum class ToxicityLevel
+{
+	DISABLED,
+	LOW,
+	MODERATE,
+	HIGH,
+	EXTREME,
+	SEVERE
+};
+
+enum class Fertility
+{
+	DISABLED,
+	LOW,
+	MODERATE,
+	HIGH,
+	EXTREME 
+};
+
+enum class BacteriaTempType
+{
+	PSYCHROPHILES,			//OPTIMAL TEMP ~10
+	MESOPHILES,				//OPTIMAL TEMP ~38
+	THERMOPHILES,			//OPTIMAL TEMP ~65
+	HYPERTHERMOPHILES		//OPTIMAL TEMP ~95
+};
